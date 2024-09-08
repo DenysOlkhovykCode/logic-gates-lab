@@ -6,7 +6,7 @@
 
 Переглянути робочу версію проєкту можна за посиланням:
 
-[Logic Gates Lab](https://denysolkhovyknure.github.io/logic-gates-lab/)
+[Logic Gates Lab](https://denysolkhovykcode.github.io/logic-gates-lab/)
 
 ## Використовувані технології
 
